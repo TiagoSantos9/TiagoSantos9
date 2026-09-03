@@ -79,9 +79,9 @@ A longo prazo, pretendo direcionar minha carreira para **Engenharia de Software 
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TiagoSantos9\&show_icons=true\&include_all_commits=true\&theme=transparent\&card_width=400)](https://github-stats-extended.vercel.app/api?username=TiagoSantos9&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TiagoSantos9\&show_icons=true\&include_all_commits=true\&theme=transparent\&card_width=400)](https://github-stats-extended.vercel.app/api?username=TiagoSantos9&show_icons=true&include_all_commits=true&theme=transparent)[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=TiagoSantos9\&layout=compact\&langs_count=7\&theme=transparent\&card_width=400)](https://github-stats-extended.vercel.app/api/top-langs?username=TiagoSantos9&layout=compact&langs_count=7&theme=transparent)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=TiagoSantos9\&layout=compact\&langs_count=7\&theme=transparent\&card_width=400)](https://github-stats-extended.vercel.app/api/top-langs?username=TiagoSantos9&layout=compact&langs_count=7&theme=transparent)
+
 
 ## 🐍 Contribuições
 
