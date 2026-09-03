@@ -56,12 +56,12 @@ Sistema de marketplace desenvolvido como projeto acadêmico.
 
 ## 📚 Atualmente estudando
 
-- Desenvolvimento Backend
+- Java
+- Spring Boot
 - APIs REST
-- C# e .NET
-- Node.js e Express
 - SQL e bancos de dados relacionais
 - Git e GitHub
+- Arquitetura e desenvolvimento Backend
 - Redes e Segurança da Informação
 - Segurança de Aplicações (AppSec)
 
